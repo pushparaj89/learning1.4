@@ -1,0 +1,675 @@
+Nov 06 11:38:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:38:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:38:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:38:07 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:38:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:38:07 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:38:07 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:38:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:38:07 symfony [info] {sfWebDebugLogger} Configuration 115.59 ms (10)
+Nov 06 11:38:07 symfony [info] {sfWebDebugLogger} Factories 296.40 ms (1)
+Nov 06 11:38:07 symfony [info] {sfWebDebugLogger} Action "user/new" 190.46 ms (1)
+Nov 06 11:38:07 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 18.51 ms (1)
+Nov 06 11:38:07 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.63 ms (1)
+Nov 06 11:38:07 symfony [info] {sfWebResponse} Send content (37586 o)
+Nov 06 11:38:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:38:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:38:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:38:26 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:38:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:38:26 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:38:26 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:38:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:38:26 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (9)
+Nov 06 11:38:26 symfony [info] {sfWebDebugLogger} Factories 4.30 ms (1)
+Nov 06 11:38:26 symfony [info] {sfWebDebugLogger} Action "user/new" 4.35 ms (1)
+Nov 06 11:38:26 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.94 ms (1)
+Nov 06 11:38:26 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.30 ms (1)
+Nov 06 11:38:26 symfony [info] {sfWebResponse} Send content (37582 o)
+Nov 06 11:38:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:38:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:38:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:38:41 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:38:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:38:41 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:38:41 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:38:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:38:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:38:41 symfony [info] {sfWebDebugLogger} Configuration 1.11 ms (9)
+Nov 06 11:38:41 symfony [info] {sfWebDebugLogger} Factories 6.94 ms (1)
+Nov 06 11:38:41 symfony [info] {sfWebDebugLogger} Action "user/new" 4.94 ms (1)
+Nov 06 11:38:41 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 3.54 ms (1)
+Nov 06 11:38:41 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.48 ms (1)
+Nov 06 11:38:41 symfony [info] {sfWebResponse} Send content (37549 o)
+Nov 06 11:39:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:39:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:39:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:39:42 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:39:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:39:42 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:39:42 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:39:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:39:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:39:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:39:42 symfony [info] {sfWebDebugLogger} Configuration 0.94 ms (9)
+Nov 06 11:39:42 symfony [info] {sfWebDebugLogger} Factories 4.27 ms (1)
+Nov 06 11:39:42 symfony [info] {sfWebDebugLogger} Action "user/new" 4.34 ms (1)
+Nov 06 11:39:42 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.81 ms (1)
+Nov 06 11:39:42 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.37 ms (1)
+Nov 06 11:39:42 symfony [info] {sfWebResponse} Send content (37590 o)
+Nov 06 11:39:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:39:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:39:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:39:43 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:39:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:39:44 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:39:44 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:39:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:39:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:39:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:39:44 symfony [info] {sfWebDebugLogger} Configuration 0.95 ms (9)
+Nov 06 11:39:44 symfony [info] {sfWebDebugLogger} Factories 4.37 ms (1)
+Nov 06 11:39:44 symfony [info] {sfWebDebugLogger} Action "user/new" 4.33 ms (1)
+Nov 06 11:39:44 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.84 ms (1)
+Nov 06 11:39:44 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.31 ms (1)
+Nov 06 11:39:44 symfony [info] {sfWebResponse} Send content (37612 o)
+Nov 06 11:40:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:40:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:40:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:40:42 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:40:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:40:42 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:40:42 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:40:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:40:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:40:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:40:42 symfony [info] {sfWebDebugLogger} Configuration 71.76 ms (9)
+Nov 06 11:40:42 symfony [info] {sfWebDebugLogger} Factories 37.53 ms (1)
+Nov 06 11:40:42 symfony [info] {sfWebDebugLogger} Action "user/new" 4.28 ms (1)
+Nov 06 11:40:42 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 4.41 ms (1)
+Nov 06 11:40:42 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.31 ms (1)
+Nov 06 11:40:42 symfony [info] {sfWebResponse} Send content (38408 o)
+Nov 06 11:40:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:40:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:40:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:40:43 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:40:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:40:43 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:40:43 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:40:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:40:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:40:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:40:43 symfony [info] {sfWebDebugLogger} Configuration 1.05 ms (9)
+Nov 06 11:40:43 symfony [info] {sfWebDebugLogger} Factories 5.08 ms (1)
+Nov 06 11:40:43 symfony [info] {sfWebDebugLogger} Action "user/new" 3.81 ms (1)
+Nov 06 11:40:43 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.72 ms (1)
+Nov 06 11:40:43 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.32 ms (1)
+Nov 06 11:40:43 symfony [info] {sfWebResponse} Send content (38405 o)
+Nov 06 11:41:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:41:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:41:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:41:55 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:41:55 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:41:55 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:41:55 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:41:55 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:41:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:41:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:41:55 symfony [info] {sfWebDebugLogger} Configuration 0.98 ms (9)
+Nov 06 11:41:55 symfony [info] {sfWebDebugLogger} Factories 4.26 ms (1)
+Nov 06 11:41:55 symfony [info] {sfWebDebugLogger} Action "user/new" 3.93 ms (1)
+Nov 06 11:41:55 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.72 ms (1)
+Nov 06 11:41:55 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.36 ms (1)
+Nov 06 11:41:55 symfony [info] {sfWebResponse} Send content (38397 o)
+Nov 06 11:41:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:41:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:41:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:41:56 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:41:56 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:41:56 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:41:56 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:41:56 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:41:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:41:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:41:56 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Nov 06 11:41:56 symfony [info] {sfWebDebugLogger} Factories 3.57 ms (1)
+Nov 06 11:41:56 symfony [info] {sfWebDebugLogger} Action "user/new" 3.49 ms (1)
+Nov 06 11:41:56 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.24 ms (1)
+Nov 06 11:41:56 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.28 ms (1)
+Nov 06 11:41:56 symfony [info] {sfWebResponse} Send content (38396 o)
+Nov 06 11:42:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:06 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:06 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:06 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:06 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:06 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:06 symfony [info] {sfWebDebugLogger} Configuration 1.08 ms (9)
+Nov 06 11:42:06 symfony [info] {sfWebDebugLogger} Factories 4.05 ms (1)
+Nov 06 11:42:06 symfony [info] {sfWebDebugLogger} Action "user/new" 4.46 ms (1)
+Nov 06 11:42:06 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.88 ms (1)
+Nov 06 11:42:06 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.35 ms (1)
+Nov 06 11:42:06 symfony [info] {sfWebResponse} Send content (38396 o)
+Nov 06 11:42:19 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:19 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:19 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:19 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:19 symfony [info] {sfWebDebugLogger} Configuration 1.09 ms (9)
+Nov 06 11:42:19 symfony [info] {sfWebDebugLogger} Factories 4.91 ms (1)
+Nov 06 11:42:19 symfony [info] {sfWebDebugLogger} Action "user/new" 4.59 ms (1)
+Nov 06 11:42:19 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 3.02 ms (1)
+Nov 06 11:42:19 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.34 ms (1)
+Nov 06 11:42:19 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:20 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:20 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (9)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Factories 3.26 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Action "user/new" 9.68 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.49 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.31 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send content (38372 o)
+Nov 06 11:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:20 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:20 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (9)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Factories 3.88 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Action "user/new" 4.67 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.56 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.31 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:20 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:20 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Configuration 0.89 ms (9)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Factories 3.38 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Action "user/new" 9.08 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.69 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.32 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:20 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:20 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (9)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Factories 7.60 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Action "user/new" 3.57 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 4.74 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.30 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:20 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:20 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Configuration 0.90 ms (9)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Factories 5.71 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Action "user/new" 4.79 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.93 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.34 ms (1)
+Nov 06 11:42:20 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:21 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:21 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:21 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:21 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:21 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:21 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:21 symfony [info] {sfWebDebugLogger} Configuration 0.90 ms (9)
+Nov 06 11:42:21 symfony [info] {sfWebDebugLogger} Factories 4.01 ms (1)
+Nov 06 11:42:21 symfony [info] {sfWebDebugLogger} Action "user/new" 8.32 ms (1)
+Nov 06 11:42:21 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.73 ms (1)
+Nov 06 11:42:21 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.35 ms (1)
+Nov 06 11:42:21 symfony [info] {sfWebResponse} Send content (38373 o)
+Nov 06 11:42:29 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:42:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:42:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:42:29 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:42:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:42:29 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:42:29 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:42:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:42:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:42:29 symfony [info] {sfWebDebugLogger} Configuration 1.04 ms (9)
+Nov 06 11:42:29 symfony [info] {sfWebDebugLogger} Factories 4.78 ms (1)
+Nov 06 11:42:29 symfony [info] {sfWebDebugLogger} Action "user/new" 5.14 ms (1)
+Nov 06 11:42:29 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 3.54 ms (1)
+Nov 06 11:42:29 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.38 ms (1)
+Nov 06 11:42:29 symfony [info] {sfWebResponse} Send content (38341 o)
+Nov 06 11:43:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 11:43:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:43:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:43:57 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 11:43:57 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 11:43:57 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 11:43:57 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:43:57 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:43:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:43:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:43:57 symfony [info] {sfWebDebugLogger} Configuration 0.99 ms (9)
+Nov 06 11:43:57 symfony [info] {sfWebDebugLogger} Factories 3.82 ms (1)
+Nov 06 11:43:57 symfony [info] {sfWebDebugLogger} Action "user/new" 3.93 ms (1)
+Nov 06 11:43:57 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 4.25 ms (1)
+Nov 06 11:43:57 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.52 ms (1)
+Nov 06 11:43:57 symfony [info] {sfWebResponse} Send content (38636 o)
+Nov 06 11:44:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /gallery with parameters array (  'module' => 'gallery',  'action' => 'index',)
+Nov 06 11:44:14 symfony [info] {sfFrontWebController} Action "gallery/index" does not exist
+Nov 06 11:44:14 symfony [err] {sfError404Exception} Action "gallery/index" does not exist.
+Nov 06 11:44:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:44:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:44:14 symfony [info] {sfWebDebugLogger} Configuration 0.44 ms (5)
+Nov 06 11:44:14 symfony [info] {sfWebDebugLogger} Factories 3.54 ms (1)
+Nov 06 11:45:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /gallery with parameters array (  'module' => 'gallery',  'action' => 'index',)
+Nov 06 11:45:29 symfony [info] {sfFrontWebController} Action "gallery/index" does not exist
+Nov 06 11:45:29 symfony [err] {sfError404Exception} Action "gallery/index" does not exist.
+Nov 06 11:45:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:45:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:45:29 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (5)
+Nov 06 11:45:29 symfony [info] {sfWebDebugLogger} Factories 5.06 ms (1)
+Nov 06 11:45:47 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:45:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:45:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:45:47 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:45:47 symfony [err] {sfRenderException} The template "gallerySuccess.php" does not exist or is unreadable in "".
+Nov 06 11:45:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Nov 06 11:45:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:45:47 symfony [info] {sfWebDebugLogger} Configuration 20.66 ms (10)
+Nov 06 11:45:47 symfony [info] {sfWebDebugLogger} Factories 23.30 ms (1)
+Nov 06 11:45:47 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:45:47 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 22.83 ms (1)
+Nov 06 11:46:05 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:46:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:46:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:46:05 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:46:05 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:46:05 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:46:05 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 21.47 ms (10)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 24.66 ms (1)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.20 ms (1)
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send content (37616 o)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/bootplus.css" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.53 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 3.64 ms (1)
+Nov 06 11:46:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /bower_components/flexslider/flexslider.css with parameters array (  'module' => 'bower_components',  'action' => 'flexslider',  'flexslider.css' => true,)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/bootplus-responsive.css" (/).
+Nov 06 11:46:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /bower_components/fontawesome/css/font-awesome.css with parameters array (  'module' => 'bower_components',  'action' => 'fontawesome',  'css' => 'font-awesome.css',)
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.52 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 41.25 ms (1)
+Nov 06 11:46:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /bower_components/jquery/dist/jquery.js with parameters array (  'module' => 'bower_components',  'action' => 'jquery',  'dist' => 'jquery.js',)
+Nov 06 11:46:05 symfony [info] {sfFrontWebController} Action "bower_components/fontawesome" does not exist
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Action "bower_components/fontawesome" does not exist.
+Nov 06 11:46:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /bower_components/flexslider/jquery.flexslider.js with parameters array (  'module' => 'bower_components',  'action' => 'flexslider',  'jquery.flexslider.js' => true,)
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.50 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 44.38 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/theme.css" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 123.86 ms (1)
+Nov 06 11:46:05 symfony [info] {sfFrontWebController} Action "bower_components/flexslider" does not exist
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Action "bower_components/flexslider" does not exist.
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.49 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 143.08 ms (1)
+Nov 06 11:46:05 symfony [info] {sfFrontWebController} Action "bower_components/flexslider" does not exist
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Action "bower_components/flexslider" does not exist.
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 114.33 ms (1)
+Nov 06 11:46:05 symfony [info] {sfFrontWebController} Action "bower_components/jquery" does not exist
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Action "bower_components/jquery" does not exist.
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.46 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 183.02 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/work-1.jpg" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.58 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 53.94 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/logo.png" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.45 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 126.97 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/work-2.jpg" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.45 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 74.11 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/work-4.jpg" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 1.02 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 32.64 ms (1)
+Nov 06 11:46:05 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/work-3.jpg" (/).
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (5)
+Nov 06 11:46:05 symfony [info] {sfWebDebugLogger} Factories 71.86 ms (1)
+Nov 06 11:53:57 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:53:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:53:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:53:57 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:53:57 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:53:57 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:53:57 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:53:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:53:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:53:57 symfony [info] {sfWebDebugLogger} Configuration 1.19 ms (9)
+Nov 06 11:53:57 symfony [info] {sfWebDebugLogger} Factories 4.86 ms (1)
+Nov 06 11:53:57 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:53:57 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.22 ms (1)
+Nov 06 11:53:57 symfony [info] {sfWebResponse} Send content (35865 o)
+Nov 06 11:54:07 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:54:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:54:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:54:07 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:54:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:54:07 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:54:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:54:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:54:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:54:07 symfony [info] {sfWebDebugLogger} Configuration 1.22 ms (9)
+Nov 06 11:54:07 symfony [info] {sfWebDebugLogger} Factories 6.29 ms (1)
+Nov 06 11:54:07 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:54:07 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 1.80 ms (1)
+Nov 06 11:54:07 symfony [info] {sfWebResponse} Send content (35810 o)
+Nov 06 11:56:41 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:56:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:56:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:56:41 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:56:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:56:41 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:56:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:56:41 symfony [info] {sfWebDebugLogger} Configuration 0.89 ms (9)
+Nov 06 11:56:41 symfony [info] {sfWebDebugLogger} Factories 3.20 ms (1)
+Nov 06 11:56:41 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:56:41 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.06 ms (1)
+Nov 06 11:56:41 symfony [info] {sfWebResponse} Send content (35918 o)
+Nov 06 11:56:43 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:56:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:56:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:56:43 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:56:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:56:43 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:56:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:56:43 symfony [info] {sfWebDebugLogger} Configuration 1.14 ms (9)
+Nov 06 11:56:43 symfony [info] {sfWebDebugLogger} Factories 3.48 ms (1)
+Nov 06 11:56:43 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:56:43 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 1.98 ms (1)
+Nov 06 11:56:43 symfony [info] {sfWebResponse} Send content (35960 o)
+Nov 06 11:56:45 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:56:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:56:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:56:45 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:56:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:56:45 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:56:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:56:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:56:45 symfony [info] {sfWebDebugLogger} Configuration 1.21 ms (9)
+Nov 06 11:56:45 symfony [info] {sfWebDebugLogger} Factories 4.68 ms (1)
+Nov 06 11:56:45 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:56:45 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.27 ms (1)
+Nov 06 11:56:45 symfony [info] {sfWebResponse} Send content (35960 o)
+Nov 06 11:57:39 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:57:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:57:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:57:39 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:57:39 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:57:39 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:57:39 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:57:39 symfony [notice] {sfWebDebugLogger}  Notice at /home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php on line 38 (Undefined variable: context)
+Nov 06 11:58:01 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 11:58:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 11:58:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 11:58:01 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 11:58:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 11:58:01 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:58:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 11:58:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 11:58:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 11:58:01 symfony [info] {sfWebDebugLogger} Configuration 1.06 ms (9)
+Nov 06 11:58:01 symfony [info] {sfWebDebugLogger} Factories 3.37 ms (1)
+Nov 06 11:58:01 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 11:58:01 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.14 ms (1)
+Nov 06 11:58:01 symfony [info] {sfWebResponse} Send content (35995 o)
+Nov 06 12:00:40 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 12:00:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:00:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:00:40 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 12:00:40 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 12:00:40 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:40 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:00:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:00:40 symfony [info] {sfWebDebugLogger} Configuration 1.06 ms (9)
+Nov 06 12:00:40 symfony [info] {sfWebDebugLogger} Factories 3.49 ms (1)
+Nov 06 12:00:40 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 12:00:40 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.09 ms (1)
+Nov 06 12:00:40 symfony [info] {sfWebResponse} Send content (36105 o)
+Nov 06 12:00:42 symfony [info] {sfPatternRouting} Match route "about" (/about-us) for /about-us with parameters array (  'module' => 'user',  'action' => 'about',)
+Nov 06 12:00:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:00:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:00:42 symfony [info] {userActions} Call "userActions->executeAbout()"
+Nov 06 12:00:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/aboutSuccess.php"
+Nov 06 12:00:42 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:42 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:00:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:00:42 symfony [info] {sfWebDebugLogger} Configuration 0.92 ms (9)
+Nov 06 12:00:42 symfony [info] {sfWebDebugLogger} Factories 4.22 ms (1)
+Nov 06 12:00:42 symfony [info] {sfWebDebugLogger} Action "user/about" 0.08 ms (1)
+Nov 06 12:00:42 symfony [info] {sfWebDebugLogger} View "Success" for "user/about" 3.19 ms (1)
+Nov 06 12:00:42 symfony [info] {sfWebResponse} Send content (35109 o)
+Nov 06 12:00:43 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 12:00:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:00:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:00:43 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 12:00:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 12:00:43 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:00:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:00:43 symfony [info] {sfWebDebugLogger} Configuration 1.28 ms (9)
+Nov 06 12:00:43 symfony [info] {sfWebDebugLogger} Factories 3.85 ms (1)
+Nov 06 12:00:43 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 12:00:43 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.27 ms (1)
+Nov 06 12:00:43 symfony [info] {sfWebResponse} Send content (33058 o)
+Nov 06 12:00:44 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 12:00:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:00:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:00:45 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:00:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:00:45 symfony [info] {sfWebDebugLogger} Configuration 1.27 ms (9)
+Nov 06 12:00:45 symfony [info] {sfWebDebugLogger} Factories 5.19 ms (1)
+Nov 06 12:00:45 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 12:00:45 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.18 ms (1)
+Nov 06 12:00:45 symfony [info] {sfWebResponse} Send content (36054 o)
+Nov 06 12:00:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 12:00:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:00:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:00:45 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 12:00:45 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:00:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:00:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:00:46 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (9)
+Nov 06 12:00:46 symfony [info] {sfWebDebugLogger} Factories 4.28 ms (1)
+Nov 06 12:00:46 symfony [info] {sfWebDebugLogger} Action "user/new" 4.98 ms (1)
+Nov 06 12:00:46 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 3.37 ms (1)
+Nov 06 12:00:46 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.43 ms (1)
+Nov 06 12:00:46 symfony [info] {sfWebResponse} Send content (38924 o)
+Nov 06 12:07:24 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 12:07:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:24 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 12:07:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 12:07:24 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:24 symfony [info] {sfWebDebugLogger} Configuration 1.27 ms (9)
+Nov 06 12:07:24 symfony [info] {sfWebDebugLogger} Factories 5.17 ms (1)
+Nov 06 12:07:24 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 12:07:24 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.62 ms (1)
+Nov 06 12:07:24 symfony [info] {sfWebResponse} Send content (36044 o)
+Nov 06 12:07:25 symfony [info] {sfPatternRouting} Match route "about" (/about-us) for /about-us with parameters array (  'module' => 'user',  'action' => 'about',)
+Nov 06 12:07:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:25 symfony [info] {userActions} Call "userActions->executeAbout()"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/aboutSuccess.php"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Configuration 0.94 ms (9)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Factories 4.20 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Action "user/about" 0.07 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} View "Success" for "user/about" 2.41 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send content (35108 o)
+Nov 06 12:07:25 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 12:07:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:25 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Configuration 1.18 ms (9)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Factories 4.62 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.97 ms (1)
+Nov 06 12:07:25 symfony [info] {sfWebResponse} Send content (33057 o)
+Nov 06 12:07:26 symfony [info] {sfPatternRouting} Match route "about" (/about-us) for /about-us with parameters array (  'module' => 'user',  'action' => 'about',)
+Nov 06 12:07:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:26 symfony [info] {userActions} Call "userActions->executeAbout()"
+Nov 06 12:07:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/aboutSuccess.php"
+Nov 06 12:07:26 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:26 symfony [info] {sfWebDebugLogger} Configuration 1.07 ms (9)
+Nov 06 12:07:26 symfony [info] {sfWebDebugLogger} Factories 4.14 ms (1)
+Nov 06 12:07:26 symfony [info] {sfWebDebugLogger} Action "user/about" 0.08 ms (1)
+Nov 06 12:07:26 symfony [info] {sfWebDebugLogger} View "Success" for "user/about" 3.34 ms (1)
+Nov 06 12:07:26 symfony [info] {sfWebResponse} Send content (35113 o)
+Nov 06 12:07:27 symfony [info] {sfPatternRouting} Match route "about" (/about-us) for /about-us with parameters array (  'module' => 'user',  'action' => 'about',)
+Nov 06 12:07:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:27 symfony [info] {userActions} Call "userActions->executeAbout()"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/aboutSuccess.php"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Factories 3.78 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Action "user/about" 0.07 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} View "Success" for "user/about" 2.06 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send content (35110 o)
+Nov 06 12:07:27 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 12:07:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:27 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Configuration 1.12 ms (9)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Factories 3.52 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.09 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.63 ms (1)
+Nov 06 12:07:27 symfony [info] {sfWebResponse} Send content (36052 o)
+Nov 06 12:07:28 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 12:07:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:07:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:07:28 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 12:07:28 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 12:07:28 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 12:07:28 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:28 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:07:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:07:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (9)
+Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Factories 3.93 ms (1)
+Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Action "user/new" 4.11 ms (1)
+Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.85 ms (1)
+Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.32 ms (1)
+Nov 06 12:07:28 symfony [info] {sfWebResponse} Send content (38925 o)

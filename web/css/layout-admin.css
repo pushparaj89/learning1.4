@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.my-wrapper
+{
+background:url(/images/auto-overall.jpg);
+width:824px;
+height:127px;
+margin:auto;
+position:relative;
+}
+
+.impression-data
+{
+position:absolute;
+width:165px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:bold;
+top:38px;
+left:17px;
+text-align:center;
+}
+
+
+.entries-data
+{
+position:absolute;
+width:140px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:bold;
+top:38px;
+left:317px;
+text-align:center;
+}
+
+
+.shares-data
+{
+position:absolute;
+width:140px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:20px;
+font-weight:bold;
+top:38px;
+left:590px;
+text-align:center;
+}
+
+
+.percentage-data1
+{
+position:absolute;
+width:48px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:17px;
+font-weight:bold;
+top:49px;
+left:212px;
+text-align:center;
+}
+
+.percentage-data2
+{
+position:absolute;
+width:48px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:17px;
+font-weight:bold;
+top:49px;
+left:487px;
+text-align:center;
+}
+

@@ -1,0 +1,8 @@
+UserDetails:
+  actAs:
+    Timestampable:
+  columns:
+    name: { type: string(100), notnull: false }
+    email_address: { type: string(255), notnull: false }
+    phone_number: { type: string(100), notnull: false }
+    comments: {  type: text, notnull: false}

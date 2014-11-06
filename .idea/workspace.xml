@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85ebdf40-4fbd-4bad-becf-ee197da17b20" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.depdblock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/images/.sf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/data/tasks/.sf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/images/bg_play_pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/content.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/fonts/flexslider-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/fonts/flexslider-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/fonts/flexslider-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/images/indicator.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/images/kitchen_adventurer_caramel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/images/kitchen_adventurer_donut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/images/kitchen_adventurer_lemon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/images/previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/sfDoctrineGuardPlugin-5.0.0.tgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/slide1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/slide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_flat_75_3a579a_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_flat_75_f2f2f2_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_flat_75_f5f5f5_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_217bc0_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_469bdd_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_6da8d5_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_a4a4a4_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/images/ui-icons_f2f2f2_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/images/ui-icons_f9bd01_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/work-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/work-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/work-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/work-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.depdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.filemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/lib/BasesfGuardAuthActions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/lib/BasesfGuardAuthComponents.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardChangeUserPasswordForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/lib/BasesfGuardForgotPasswordActions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardFormSignin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/lib/BasesfGuardRegisterActions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/lib/BasesfGuardRegisterComponents.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardRegisterForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/base/BasesfGuardRequestForgotPasswordForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardUser/lib/BasesfGuardUserActions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardUserAdminForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardForgotPassword.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardForgotPasswordTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardGroupForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/filter/doctrine/PluginsfGuardGroupFormFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardGroupPermission.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardGroupPermissionTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardGroupTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardPermission.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardPermissionForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/filter/doctrine/PluginsfGuardPermissionFormFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardPermissionTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardRememberKey.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardRememberKeyTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUser.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardUserForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/filter/doctrine/PluginsfGuardUserFormFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUserGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUserGroupTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUserPermission.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUserPermissionTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/model/doctrine/PluginsfGuardUserTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/lib/helper/UIHelper.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/__uri.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_assets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_filters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_filters_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_flashes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/templates/_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form_fieldset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form_footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_form_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_batch_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_field_boolean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_td_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_td_batch_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_td_stacked.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_td_tabular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_th_stacked.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_list_th_tabular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/_new_password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/_send_request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_show_actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/admin/modules/sfGuardAuth/templates/_signin_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/_signin_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/_themeswitcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/templates/aboutSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardGroup/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardUser/actions/actions.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/actionsConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/config/app.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/basic-carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/batchAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/bootplus-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/bootplus-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/bootplus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/bootplus.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/carousel-min-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/changeSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/actions/components.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/actions/components.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/createAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/deleteAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/doc.php.net.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/js/double_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/dynamic-carousel-min-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/editAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/editSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/fg.buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/fg.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/fg.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/fieldsConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/filterAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/filtersAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/filtersConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/data/fixtures/fixtures.yml.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/fonts/flexslider-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/flexslider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/froogaloop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/skeleton/config/generator.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardGroup/config/generator.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/config/generator.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardUser/config/generator.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/lib/helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-semibold/svg/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/indexAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/indexSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/indexSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardRegister/templates/indexSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/lib/jRollerDoctrineGenerator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/facebook/jquery-ui.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/redmond/jquery-ui.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/css/jquery.autocompleter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/web/js/jquery.autocompleter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/jquery.fitvid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/jroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/layout-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/newAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/newSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/paginationAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/paginationConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/pear.php.net.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/pear.symfony-project.com.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/.alias/pear.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/pecl.php.net.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/.alias/pecl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/.alias/phpdocs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/plugins.symfony-project.org.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/processFormAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/bin/prove.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/secureSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/config/sfAdminThemejRollerPluginConfiguration.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/config/sfDoctrineGuardPluginConfiguration.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/form/sfFormLanguage.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/form/sfFormLanguageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddGroupTask.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddPermissionTask.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/sfGuardBasicSecurityFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardChangePasswordTask.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardChangeUserPasswordForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardCreateUserTask.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardFormSignin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardGroup/lib/sfGuardGroupGeneratorConfiguration.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardGroup/lib/sfGuardGroupGeneratorHelper.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorConfiguration.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorHelper.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardPromoteSuperAdminTask.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardRegisterForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/sfGuardRememberMeFilter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/sfGuardRequestForgotPasswordForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/routing/sfGuardRouting.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/user/sfGuardSecurityUser.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardUserAdminForm.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardUser/lib/sfGuardUserGeneratorConfiguration.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardUser/lib/sfGuardUserGeneratorHelper.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/lib/validator/sfGuardValidatorUser.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/validator/sfValidatorBlacklist.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/validator/sfValidatorBlacklistTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/validator/sfValidatorDefault.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/validator/sfValidatorDefaultTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/validator/doctrine/sfValidatorDoctrineNestedSetLevel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/validator/sfValidatorReCaptcha.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/validator/sfValidatorReCaptchaTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/validator/sfValidatorSchemaTimeInterval.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/validator/sfValidatorSchemaTimeIntervalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineChoiceGrouped.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryAutocompleter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormJQueryDate.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormPropelChoiceGrouped.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormPropelJQueryAutocompleter.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormReCaptcha.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/test/widget/sfWidgetFormReCaptchaTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormSelectDoubleList.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormSelectUSState.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfFormExtraPlugin/lib/widget/sfWidgetFormTextareaTinyMCE.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/i18n/sf_guard.es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/i18n/sf_guard.fr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.registry/.channel.plugins.symfony-project.org/sfdoctrineguardplugin.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/shBrushCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/shBrushJScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/shBrushXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/js/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/showAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/showConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/template/templates/showSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/admin/modules/sfGuardAuth/templates/signinSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/signinSuccess.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/sortingAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/sortingConfiguration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-medium/svg/svg_test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/fonts/webfonts/geo-regular/svg/svg_test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/.alias/symfony-plugins.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.registry/.channel.pear.symfony-project.com/symfony.reg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/.channels/.alias/symfony.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/themeswitcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/thumbnail-controlnav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/thumbnail-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/ui.selectmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/js/ui.selectmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/web/css/jquery/base/ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/sfAdminThemejRollerPlugin/data/generator/sfDoctrineModule/jroller/parts/updateAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/fontawesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/video-wistia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/flexslider/demo/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/src/ajax/xhr.js" />
+    </list>
+    <ignored path="learning1.4.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="learning1.4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="8" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myUser.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/lib/myUser.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="40" selection-start="47" selection-end="47" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actions.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/modules/userdetails/actions/actions.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1380">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/admin/templates/layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="56" selection-start="891" selection-end="891" vertical-scroll-proportion="0.43913713" vertical-offset="0" max-vertical-offset="649">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="7" selection-start="350" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/config/settings.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="34" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout-admin.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/layout-admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/config/view.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="37" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filters.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/admin/config/filters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config/doctrine/schema.yml" />
+        <option value="$PROJECT_DIR$/config/ProjectConfiguration.class.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/actions/actions.class.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/config/view.yml" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/newSuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/config/routing.yml" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/_form.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/aboutSuccess.php" />
+        <option value="$PROJECT_DIR$/apps/frontend/templates/layout.php" />
+        <option value="$PROJECT_DIR$/apps/admin/config/security.yml" />
+        <option value="$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml" />
+        <option value="$PROJECT_DIR$/apps/admin/config/routing.yml" />
+        <option value="$PROJECT_DIR$/apps/admin/lib/myUser.class.php" />
+        <option value="$PROJECT_DIR$/apps/admin/modules/userdetails/actions/actions.class.php" />
+        <option value="$PROJECT_DIR$/apps/admin/config/settings.yml" />
+        <option value="$PROJECT_DIR$/apps/admin/config/view.yml" />
+        <option value="$PROJECT_DIR$/apps/admin/templates/layout.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="32" />
+    <option name="width" value="1440" />
+    <option name="height" value="842" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userdetails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userdetails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="userdetails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/css" />
+      <recent name="$PROJECT_DIR$/apps/admin/modules" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/js" />
+      <recent name="$PROJECT_DIR$/web/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ebdf40-4fbd-4bad-becf-ee197da17b20" name="Default" comment="" />
+      <created>1415251442732</created>
+      <updated>1415251442732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="32" width="1440" height="842" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/doctrine/schema.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/ProjectConfiguration.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="303" selection-end="303" vertical-scroll-proportion="0.22354695" vertical-offset="0" max-vertical-offset="671">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/databases.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="44" selection-start="238" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/actions/actions.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="2" selection-start="2413" selection-end="2413" vertical-scroll-proportion="-22.416666" vertical-offset="677" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootplus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="103215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="34020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bower_components/jquery/src/css/var/rmargin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/config/view.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="57" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding>
+            <marker date="1415254001732" expanded="true" signature="-1:-1" placeholder="stylesheets:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/newSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="0" selection-start="3506" selection-end="3506" vertical-scroll-proportion="-8.705882" vertical-offset="846" max-vertical-offset="1455">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="632" selection-end="632" vertical-scroll-proportion="-3.5294118" vertical-offset="0" max-vertical-offset="1695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/aboutSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="36" selection-start="4508" selection-end="4513" vertical-scroll-proportion="-8.117647" vertical-offset="936" max-vertical-offset="1545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="56" selection-start="1689" selection-end="1692" vertical-scroll-proportion="0.33333334" vertical-offset="232" max-vertical-offset="945">
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/modules/sfGuardAuth/templates/signinSuccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/modules/sfGuardAuth/templates/_signin_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1299" selection-end="1299" vertical-scroll-proportion="-10.625" vertical-offset="300" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/cache.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/app.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/adminConfiguration.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/factories.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/filters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/lib/myUser.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="40" selection-start="47" selection-end="47" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/modules/userdetails/actions/actions.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/frontend/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="350" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/layout-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/view.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="34" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/admin/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="56" selection-start="891" selection-end="891" vertical-scroll-proportion="0.43913713" vertical-offset="0" max-vertical-offset="649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

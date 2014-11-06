@@ -1,0 +1,95 @@
+html{overflow: hidden}
+body
+{
+   font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+   font-size: 0.7em;
+   padding:0px;
+   margin: 0px;
+   overflow: hidden;
+}
+
+div.topnav a:link
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+div.topnav a:visited
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+div.topnav a:active
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+img.ui-datepicker-trigger
+{
+    margin-bottom: -8px;
+    cursor: pointer;
+}
+
+div.topnav
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    background-color: #3A579A;
+    color: #fff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#topnav_content
+{
+    width: 960px;
+
+}
+
+#topnav_content .left_options
+{
+    float: left;
+    clear: right;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 1.4em;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-weight: 900;
+}
+
+#topnav_content .right_options
+{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: right;
+    font-size: 1.2em;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+div.content
+{
+    margin-top: 35px;
+    width: 960px;
+    min-height: 1200px;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+}
+
+.edit_title
+{
+    text-align: left;
+    font-size: 0.8em;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-weight: 900;
+    color: #000;
+}
+
+.hiddenfield
+{
+	display:none;
+}
