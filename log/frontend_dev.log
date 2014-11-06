@@ -673,3 +673,838 @@ Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Action "user/new" 4.11 ms (1)
 Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.85 ms (1)
 Nov 06 12:07:28 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.32 ms (1)
 Nov 06 12:07:28 symfony [info] {sfWebResponse} Send content (38925 o)
+Nov 06 12:40:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /contact with parameters array (  'module' => 'contact',  'action' => 'index',)
+Nov 06 12:40:55 symfony [info] {sfFrontWebController} Action "contact/index" does not exist
+Nov 06 12:40:55 symfony [err] {sfError404Exception} Action "contact/index" does not exist.
+Nov 06 12:40:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Nov 06 12:40:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:40:55 symfony [info] {sfWebDebugLogger} Configuration 63.57 ms (5)
+Nov 06 12:40:55 symfony [info] {sfWebDebugLogger} Factories 36.97 ms (1)
+Nov 06 12:41:29 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 12:41:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 12:41:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 12:41:29 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 12:41:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 12:41:29 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:41:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 12:41:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 12:41:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 12:41:29 symfony [info] {sfWebDebugLogger} Configuration 6.80 ms (10)
+Nov 06 12:41:29 symfony [info] {sfWebDebugLogger} Factories 4.88 ms (1)
+Nov 06 12:41:29 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 12:41:29 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 3.89 ms (1)
+Nov 06 12:41:29 symfony [info] {sfWebResponse} Send content (33252 o)
+Nov 06 13:49:25 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 13:49:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:49:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:49:25 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 13:49:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 13:49:25 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:49:25 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:49:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:49:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:49:25 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Nov 06 13:49:25 symfony [info] {sfWebDebugLogger} Factories 3.68 ms (1)
+Nov 06 13:49:25 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 13:49:25 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.29 ms (1)
+Nov 06 13:49:25 symfony [info] {sfWebResponse} Send content (32957 o)
+Nov 06 13:49:32 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 13:49:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:49:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:49:32 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 13:49:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 13:49:32 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:49:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:49:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:49:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:49:32 symfony [info] {sfWebDebugLogger} Configuration 0.93 ms (9)
+Nov 06 13:49:32 symfony [info] {sfWebDebugLogger} Factories 4.88 ms (1)
+Nov 06 13:49:32 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 13:49:32 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.48 ms (1)
+Nov 06 13:49:32 symfony [info] {sfWebResponse} Send content (33036 o)
+Nov 06 13:50:28 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 13:50:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:28 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 13:50:28 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 13:50:28 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 13:50:28 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:28 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:28 symfony [info] {sfWebDebugLogger} Configuration 0.99 ms (9)
+Nov 06 13:50:28 symfony [info] {sfWebDebugLogger} Factories 4.93 ms (1)
+Nov 06 13:50:28 symfony [info] {sfWebDebugLogger} Action "user/new" 13.55 ms (1)
+Nov 06 13:50:28 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 4.42 ms (1)
+Nov 06 13:50:28 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.45 ms (1)
+Nov 06 13:50:28 symfony [info] {sfWebResponse} Send content (38929 o)
+Nov 06 13:50:30 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 13:50:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:30 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 13:50:30 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 13:50:30 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:30 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:30 symfony [info] {sfWebDebugLogger} Configuration 0.93 ms (9)
+Nov 06 13:50:30 symfony [info] {sfWebDebugLogger} Factories 4.20 ms (1)
+Nov 06 13:50:30 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 13:50:30 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.42 ms (1)
+Nov 06 13:50:30 symfony [info] {sfWebResponse} Send content (36043 o)
+Nov 06 13:50:31 symfony [info] {sfPatternRouting} Match route "about" (/about-us) for /about-us with parameters array (  'module' => 'user',  'action' => 'about',)
+Nov 06 13:50:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:31 symfony [info] {userActions} Call "userActions->executeAbout()"
+Nov 06 13:50:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/aboutSuccess.php"
+Nov 06 13:50:31 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:31 symfony [info] {sfWebDebugLogger} Configuration 0.80 ms (9)
+Nov 06 13:50:31 symfony [info] {sfWebDebugLogger} Factories 3.17 ms (1)
+Nov 06 13:50:31 symfony [info] {sfWebDebugLogger} Action "user/about" 0.07 ms (1)
+Nov 06 13:50:31 symfony [info] {sfWebDebugLogger} View "Success" for "user/about" 3.40 ms (1)
+Nov 06 13:50:31 symfony [info] {sfWebResponse} Send content (35109 o)
+Nov 06 13:50:32 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 13:50:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:32 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Configuration 1.24 ms (9)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Factories 5.56 ms (1)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.19 ms (1)
+Nov 06 13:50:32 symfony [info] {sfWebResponse} Send content (33057 o)
+Nov 06 13:50:32 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 13:50:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:32 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:32 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Configuration 1.16 ms (9)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Factories 7.27 ms (1)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 13:50:32 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.46 ms (1)
+Nov 06 13:50:33 symfony [info] {sfWebResponse} Send content (36054 o)
+Nov 06 13:50:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 13:50:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:40 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 13:50:40 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 13:50:40 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 13:50:40 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:40 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:40 symfony [info] {sfWebDebugLogger} Configuration 1.05 ms (9)
+Nov 06 13:50:40 symfony [info] {sfWebDebugLogger} Factories 3.90 ms (1)
+Nov 06 13:50:40 symfony [info] {sfWebDebugLogger} Action "user/new" 3.68 ms (1)
+Nov 06 13:50:40 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.50 ms (1)
+Nov 06 13:50:40 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.27 ms (1)
+Nov 06 13:50:40 symfony [info] {sfWebResponse} Send content (38924 o)
+Nov 06 13:50:45 symfony [info] {sfPatternRouting} Match route "gallery" (/gallery) for /gallery with parameters array (  'module' => 'user',  'action' => 'gallery',)
+Nov 06 13:50:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 13:50:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 13:50:45 symfony [info] {userActions} Call "userActions->executeGallery()"
+Nov 06 13:50:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/gallerySuccess.php"
+Nov 06 13:50:45 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 13:50:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 13:50:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 13:50:45 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (9)
+Nov 06 13:50:45 symfony [info] {sfWebDebugLogger} Factories 3.82 ms (1)
+Nov 06 13:50:45 symfony [info] {sfWebDebugLogger} Action "user/gallery" 0.07 ms (1)
+Nov 06 13:50:45 symfony [info] {sfWebDebugLogger} View "Success" for "user/gallery" 2.02 ms (1)
+Nov 06 13:50:45 symfony [info] {sfWebResponse} Send content (36043 o)
+Nov 06 14:06:14 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:06:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:06:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:06:14 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:06:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:06:14 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:06:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:06:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:06:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:06:14 symfony [info] {sfWebDebugLogger} Configuration 1.23 ms (9)
+Nov 06 14:06:14 symfony [info] {sfWebDebugLogger} Factories 21.60 ms (1)
+Nov 06 14:06:14 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.14 ms (1)
+Nov 06 14:06:14 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 39.54 ms (1)
+Nov 06 14:06:14 symfony [info] {sfWebResponse} Send content (33414 o)
+Nov 06 14:14:41 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:14:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:14:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:14:41 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:14:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:14:41 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:14:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:14:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:14:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:14:41 symfony [info] {sfWebDebugLogger} Configuration 52.26 ms (10)
+Nov 06 14:14:41 symfony [info] {sfWebDebugLogger} Factories 55.29 ms (1)
+Nov 06 14:14:41 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.09 ms (1)
+Nov 06 14:14:41 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.62 ms (1)
+Nov 06 14:14:41 symfony [info] {sfWebResponse} Send content (35289 o)
+Nov 06 14:14:43 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:14:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:14:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:14:43 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:14:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:14:43 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:14:43 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:14:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:14:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:14:43 symfony [info] {sfWebDebugLogger} Configuration 1.20 ms (9)
+Nov 06 14:14:43 symfony [info] {sfWebDebugLogger} Factories 4.84 ms (1)
+Nov 06 14:14:43 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:14:43 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.27 ms (1)
+Nov 06 14:14:43 symfony [info] {sfWebResponse} Send content (35572 o)
+Nov 06 14:24:12 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:24:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:24:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:24:12 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:24:12 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:24:12 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:24:12 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:24:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:24:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:24:12 symfony [info] {sfWebDebugLogger} Configuration 0.95 ms (9)
+Nov 06 14:24:12 symfony [info] {sfWebDebugLogger} Factories 4.59 ms (1)
+Nov 06 14:24:12 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:24:12 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.52 ms (1)
+Nov 06 14:24:12 symfony [info] {sfWebResponse} Send content (35593 o)
+Nov 06 14:24:41 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:24:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:24:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:24:41 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:24:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:24:41 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:24:41 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:24:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:24:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:24:41 symfony [info] {sfWebDebugLogger} Configuration 0.81 ms (9)
+Nov 06 14:24:41 symfony [info] {sfWebDebugLogger} Factories 3.24 ms (1)
+Nov 06 14:24:41 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:24:41 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.02 ms (1)
+Nov 06 14:24:41 symfony [info] {sfWebResponse} Send content (35188 o)
+Nov 06 14:25:29 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:25:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:25:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:25:29 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:25:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:25:29 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:25:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:25:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:25:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:25:29 symfony [info] {sfWebDebugLogger} Configuration 1.08 ms (9)
+Nov 06 14:25:29 symfony [info] {sfWebDebugLogger} Factories 4.26 ms (1)
+Nov 06 14:25:29 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:25:29 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.57 ms (1)
+Nov 06 14:25:29 symfony [info] {sfWebResponse} Send content (35225 o)
+Nov 06 14:25:44 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:25:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:25:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:25:44 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:25:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:25:44 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:25:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:25:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:25:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:25:44 symfony [info] {sfWebDebugLogger} Configuration 0.97 ms (9)
+Nov 06 14:25:44 symfony [info] {sfWebDebugLogger} Factories 4.35 ms (1)
+Nov 06 14:25:44 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:25:44 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.48 ms (1)
+Nov 06 14:25:44 symfony [info] {sfWebResponse} Send content (35610 o)
+Nov 06 14:27:24 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:27:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:27:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:27:24 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:27:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:27:24 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:27:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:27:24 symfony [info] {sfWebDebugLogger} Configuration 3.50 ms (10)
+Nov 06 14:27:24 symfony [info] {sfWebDebugLogger} Factories 3.30 ms (1)
+Nov 06 14:27:24 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.06 ms (1)
+Nov 06 14:27:24 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 6.22 ms (1)
+Nov 06 14:27:24 symfony [info] {sfWebResponse} Send content (35705 o)
+Nov 06 14:27:26 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:27:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:27:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:27:26 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:27:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:27:26 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:27:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:27:26 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (9)
+Nov 06 14:27:26 symfony [info] {sfWebDebugLogger} Factories 3.52 ms (1)
+Nov 06 14:27:26 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.09 ms (1)
+Nov 06 14:27:26 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.22 ms (1)
+Nov 06 14:27:26 symfony [info] {sfWebResponse} Send content (35703 o)
+Nov 06 14:27:29 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:27:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:27:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:27:29 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:27:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:27:29 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:27:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:27:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:27:29 symfony [info] {sfWebDebugLogger} Configuration 1.07 ms (9)
+Nov 06 14:27:29 symfony [info] {sfWebDebugLogger} Factories 3.27 ms (1)
+Nov 06 14:27:29 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:27:29 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.94 ms (1)
+Nov 06 14:27:29 symfony [info] {sfWebResponse} Send content (35702 o)
+Nov 06 14:28:14 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:28:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:28:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:28:14 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:28:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:28:14 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:28:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:28:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:28:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:28:14 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Nov 06 14:28:14 symfony [info] {sfWebDebugLogger} Factories 4.29 ms (1)
+Nov 06 14:28:14 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:28:14 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.48 ms (1)
+Nov 06 14:28:14 symfony [info] {sfWebResponse} Send content (35553 o)
+Nov 06 14:29:29 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:29:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:29:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:29:29 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:29:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:29:29 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:29 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:29:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:29:29 symfony [info] {sfWebDebugLogger} Configuration 4.08 ms (10)
+Nov 06 14:29:29 symfony [info] {sfWebDebugLogger} Factories 4.38 ms (1)
+Nov 06 14:29:29 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.13 ms (1)
+Nov 06 14:29:29 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 5.88 ms (1)
+Nov 06 14:29:29 symfony [info] {sfWebResponse} Send content (35983 o)
+Nov 06 14:29:31 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:29:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:29:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:29:31 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:29:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:29:31 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:29:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:29:31 symfony [info] {sfWebDebugLogger} Configuration 1.17 ms (9)
+Nov 06 14:29:31 symfony [info] {sfWebDebugLogger} Factories 5.00 ms (1)
+Nov 06 14:29:31 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.13 ms (1)
+Nov 06 14:29:31 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.79 ms (1)
+Nov 06 14:29:31 symfony [info] {sfWebResponse} Send content (35957 o)
+Nov 06 14:29:38 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:29:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:29:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:29:38 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:29:38 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:29:38 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:38 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:29:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:29:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:29:38 symfony [info] {sfWebDebugLogger} Configuration 0.86 ms (9)
+Nov 06 14:29:38 symfony [info] {sfWebDebugLogger} Factories 3.38 ms (1)
+Nov 06 14:29:38 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:29:38 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.93 ms (1)
+Nov 06 14:29:38 symfony [info] {sfWebResponse} Send content (35540 o)
+Nov 06 14:30:01 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:30:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:30:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:30:01 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:30:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:30:01 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:30:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:30:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:30:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:30:01 symfony [info] {sfWebDebugLogger} Configuration 0.84 ms (9)
+Nov 06 14:30:01 symfony [info] {sfWebDebugLogger} Factories 6.04 ms (1)
+Nov 06 14:30:01 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:30:01 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.51 ms (1)
+Nov 06 14:30:01 symfony [info] {sfWebResponse} Send content (35977 o)
+Nov 06 14:31:10 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:31:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:31:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:31:10 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:31:10 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:31:10 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:31:10 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:31:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:31:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:31:10 symfony [info] {sfWebDebugLogger} Configuration 0.86 ms (9)
+Nov 06 14:31:10 symfony [info] {sfWebDebugLogger} Factories 3.41 ms (1)
+Nov 06 14:31:10 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:31:10 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.57 ms (1)
+Nov 06 14:31:10 symfony [info] {sfWebResponse} Send content (35972 o)
+Nov 06 14:31:48 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:31:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:31:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:31:48 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:31:48 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:31:48 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:31:48 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:31:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:31:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:31:48 symfony [info] {sfWebDebugLogger} Configuration 1.08 ms (9)
+Nov 06 14:31:48 symfony [info] {sfWebDebugLogger} Factories 3.34 ms (1)
+Nov 06 14:31:48 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:31:48 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.94 ms (1)
+Nov 06 14:31:48 symfony [info] {sfWebResponse} Send content (35971 o)
+Nov 06 14:32:07 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:32:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:32:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:32:07 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:32:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:32:07 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:32:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:32:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:32:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:32:07 symfony [info] {sfWebDebugLogger} Configuration 291.17 ms (9)
+Nov 06 14:32:07 symfony [info] {sfWebDebugLogger} Factories 37.36 ms (1)
+Nov 06 14:32:07 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:32:07 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 3.54 ms (1)
+Nov 06 14:32:07 symfony [info] {sfWebResponse} Send content (35976 o)
+Nov 06 14:35:24 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:35:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:35:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:35:24 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:35:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:35:24 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:35:24 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:35:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:35:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:35:24 symfony [info] {sfWebDebugLogger} Configuration 0.86 ms (9)
+Nov 06 14:35:24 symfony [info] {sfWebDebugLogger} Factories 3.96 ms (1)
+Nov 06 14:35:24 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:35:24 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.17 ms (1)
+Nov 06 14:35:24 symfony [info] {sfWebResponse} Send content (35971 o)
+Nov 06 14:36:17 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:36:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:36:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:36:17 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:36:17 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:36:17 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:36:17 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:36:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:36:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:36:17 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Nov 06 14:36:17 symfony [info] {sfWebDebugLogger} Factories 3.49 ms (1)
+Nov 06 14:36:17 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:36:17 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.10 ms (1)
+Nov 06 14:36:17 symfony [info] {sfWebResponse} Send content (36005 o)
+Nov 06 14:38:00 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:38:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:38:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:38:00 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:38:00 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:38:00 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:38:00 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:38:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:38:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:38:00 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Nov 06 14:38:00 symfony [info] {sfWebDebugLogger} Factories 4.32 ms (1)
+Nov 06 14:38:00 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 14:38:00 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.40 ms (1)
+Nov 06 14:38:00 symfony [info] {sfWebResponse} Send content (36005 o)
+Nov 06 14:39:23 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:39:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:39:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:39:23 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:39:23 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:39:23 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:39:23 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:39:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:39:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:39:23 symfony [info] {sfWebDebugLogger} Configuration 0.99 ms (9)
+Nov 06 14:39:23 symfony [info] {sfWebDebugLogger} Factories 4.29 ms (1)
+Nov 06 14:39:23 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 14:39:23 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.56 ms (1)
+Nov 06 14:39:23 symfony [info] {sfWebResponse} Send content (36005 o)
+Nov 06 14:39:53 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:39:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:39:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:39:53 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:39:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:39:53 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:39:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:39:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:39:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:39:53 symfony [info] {sfWebDebugLogger} Configuration 1.56 ms (9)
+Nov 06 14:39:53 symfony [info] {sfWebDebugLogger} Factories 5.70 ms (1)
+Nov 06 14:39:53 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.16 ms (1)
+Nov 06 14:39:53 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 3.04 ms (1)
+Nov 06 14:39:53 symfony [info] {sfWebResponse} Send content (35983 o)
+Nov 06 14:40:27 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:40:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:40:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:40:27 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:40:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:40:27 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:40:27 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:40:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:40:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:40:27 symfony [info] {sfWebDebugLogger} Configuration 1.01 ms (9)
+Nov 06 14:40:27 symfony [info] {sfWebDebugLogger} Factories 3.37 ms (1)
+Nov 06 14:40:27 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:40:27 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.97 ms (1)
+Nov 06 14:40:27 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:40:53 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:40:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:40:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:40:53 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:40:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:40:53 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:40:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:40:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:40:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:40:53 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Nov 06 14:40:53 symfony [info] {sfWebDebugLogger} Factories 4.33 ms (1)
+Nov 06 14:40:53 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:40:53 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.56 ms (1)
+Nov 06 14:40:53 symfony [info] {sfWebResponse} Send content (36000 o)
+Nov 06 14:42:13 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:42:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:42:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:42:13 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:42:13 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:42:13 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:42:13 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:42:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:42:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:42:13 symfony [info] {sfWebDebugLogger} Configuration 0.97 ms (9)
+Nov 06 14:42:13 symfony [info] {sfWebDebugLogger} Factories 4.32 ms (1)
+Nov 06 14:42:13 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 14:42:13 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.41 ms (1)
+Nov 06 14:42:13 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:42:31 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:42:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:42:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:42:31 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:42:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:42:31 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:42:31 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:42:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:42:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:42:31 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Nov 06 14:42:31 symfony [info] {sfWebDebugLogger} Factories 4.22 ms (1)
+Nov 06 14:42:31 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:42:31 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.97 ms (1)
+Nov 06 14:42:31 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:43:30 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:43:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:43:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:43:30 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:43:30 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:43:30 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:43:30 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:43:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:43:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:43:30 symfony [info] {sfWebDebugLogger} Configuration 0.83 ms (9)
+Nov 06 14:43:30 symfony [info] {sfWebDebugLogger} Factories 3.36 ms (1)
+Nov 06 14:43:30 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:43:30 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.96 ms (1)
+Nov 06 14:43:30 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:43:51 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:43:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:43:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:43:51 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:43:51 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:43:51 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:43:51 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:43:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:43:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:43:51 symfony [info] {sfWebDebugLogger} Configuration 0.89 ms (9)
+Nov 06 14:43:51 symfony [info] {sfWebDebugLogger} Factories 3.45 ms (1)
+Nov 06 14:43:51 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:43:51 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.92 ms (1)
+Nov 06 14:43:51 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:44:07 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:44:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:44:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:44:07 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:44:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:44:07 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:44:07 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:44:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:44:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:44:07 symfony [info] {sfWebDebugLogger} Configuration 1.14 ms (9)
+Nov 06 14:44:07 symfony [info] {sfWebDebugLogger} Factories 3.55 ms (1)
+Nov 06 14:44:07 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:44:07 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.03 ms (1)
+Nov 06 14:44:07 symfony [info] {sfWebResponse} Send content (36023 o)
+Nov 06 14:44:19 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:44:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:44:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:44:19 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:44:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:44:19 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:44:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:44:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:44:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:44:19 symfony [info] {sfWebDebugLogger} Configuration 0.92 ms (9)
+Nov 06 14:44:19 symfony [info] {sfWebDebugLogger} Factories 4.31 ms (1)
+Nov 06 14:44:19 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:44:19 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.46 ms (1)
+Nov 06 14:44:19 symfony [info] {sfWebResponse} Send content (36000 o)
+Nov 06 14:45:36 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:45:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:45:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:45:36 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:45:36 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:45:36 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:45:36 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:45:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:45:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:45:36 symfony [info] {sfWebDebugLogger} Configuration 1.54 ms (9)
+Nov 06 14:45:36 symfony [info] {sfWebDebugLogger} Factories 5.57 ms (1)
+Nov 06 14:45:36 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.12 ms (1)
+Nov 06 14:45:36 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.19 ms (1)
+Nov 06 14:45:36 symfony [info] {sfWebResponse} Send content (36000 o)
+Nov 06 14:46:22 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:46:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:46:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:46:22 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:46:22 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:46:22 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:46:22 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:46:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:46:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:46:22 symfony [info] {sfWebDebugLogger} Configuration 2.21 ms (9)
+Nov 06 14:46:22 symfony [info] {sfWebDebugLogger} Factories 4.92 ms (1)
+Nov 06 14:46:22 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 14:46:22 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.59 ms (1)
+Nov 06 14:46:22 symfony [info] {sfWebResponse} Send content (36022 o)
+Nov 06 14:49:01 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:49:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:49:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:49:01 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:49:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:49:01 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:49:01 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:49:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:49:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:49:01 symfony [info] {sfWebDebugLogger} Configuration 1.00 ms (9)
+Nov 06 14:49:01 symfony [info] {sfWebDebugLogger} Factories 3.64 ms (1)
+Nov 06 14:49:01 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:49:01 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.34 ms (1)
+Nov 06 14:49:01 symfony [info] {sfWebResponse} Send content (36022 o)
+Nov 06 14:49:37 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:49:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:49:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:49:37 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:49:37 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:49:37 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:49:37 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:49:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:49:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:49:37 symfony [info] {sfWebDebugLogger} Configuration 0.90 ms (9)
+Nov 06 14:49:37 symfony [info] {sfWebDebugLogger} Factories 4.31 ms (1)
+Nov 06 14:49:37 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 14:49:37 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.94 ms (1)
+Nov 06 14:49:37 symfony [info] {sfWebResponse} Send content (36039 o)
+Nov 06 14:49:53 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:49:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:49:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:49:53 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:49:57 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:49:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:49:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:49:57 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:50:26 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:50:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:50:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:50:26 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:50:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:50:26 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:50:26 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:50:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:50:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:50:26 symfony [info] {sfWebDebugLogger} Configuration 0.96 ms (9)
+Nov 06 14:50:26 symfony [info] {sfWebDebugLogger} Factories 3.64 ms (1)
+Nov 06 14:50:26 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:50:26 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.18 ms (1)
+Nov 06 14:50:26 symfony [info] {sfWebResponse} Send content (36039 o)
+Nov 06 14:50:35 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:50:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:50:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:50:35 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:50:35 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "email" on "UserDetails"
+Nov 06 14:50:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Nov 06 14:50:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:50:35 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (8)
+Nov 06 14:50:35 symfony [info] {sfWebDebugLogger} Factories 4.25 ms (1)
+Nov 06 14:50:35 symfony [info] {sfWebDebugLogger} Action "user/contactSave" 129.26 ms (1)
+Nov 06 14:51:10 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:51:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:51:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:51:10 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:51:10 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:51:10 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 1234567890, easdasd, 2014-11-06 14:51:10, 2014-11-06 14:51:10)
+Nov 06 14:51:21 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:51:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:51:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:51:21 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:51:21 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:51:21 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 1234567890, easdasd, 2014-11-06 14:51:21, 2014-11-06 14:51:21)
+Nov 06 14:52:44 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:52:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:52:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:52:44 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:52:44 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:52:44 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 1234567890, easdasd, 2014-11-06 14:52:44, 2014-11-06 14:52:44)
+Nov 06 14:52:44 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:52:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:52:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:52:44 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:52:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:52:44 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:52:44 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:52:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:52:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:52:44 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (9)
+Nov 06 14:52:44 symfony [info] {sfWebDebugLogger} Factories 8.10 ms (1)
+Nov 06 14:52:44 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:52:44 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.58 ms (1)
+Nov 06 14:52:44 symfony [info] {sfWebResponse} Send content (35706 o)
+Nov 06 14:53:03 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:53:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:53:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:53:03 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:53:03 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:53:03 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 12345678899, sdsdsd, 2014-11-06 14:53:03, 2014-11-06 14:53:03)
+Nov 06 14:53:03 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:53:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:53:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:53:03 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:53:03 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:53:03 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:53:03 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:53:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:53:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:53:03 symfony [info] {sfWebDebugLogger} Configuration 1.22 ms (9)
+Nov 06 14:53:03 symfony [info] {sfWebDebugLogger} Factories 5.75 ms (1)
+Nov 06 14:53:03 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:53:03 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.18 ms (1)
+Nov 06 14:53:03 symfony [info] {sfWebResponse} Send content (35706 o)
+Nov 06 14:56:54 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:56:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:56:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:56:54 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:56:55 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:56:55 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 123466456456546, ertert, 2014-11-06 14:56:55, 2014-11-06 14:56:55)
+Nov 06 14:56:55 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:56:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:56:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:56:55 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:56:55 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:56:55 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:56:55 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:56:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:56:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:56:55 symfony [info] {sfWebDebugLogger} Configuration 1.24 ms (9)
+Nov 06 14:56:55 symfony [info] {sfWebDebugLogger} Factories 3.70 ms (1)
+Nov 06 14:56:55 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.09 ms (1)
+Nov 06 14:56:55 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 3.15 ms (1)
+Nov 06 14:56:55 symfony [info] {sfWebResponse} Send content (35713 o)
+Nov 06 14:57:13 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:57:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:57:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:57:13 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:57:13 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:57:13 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 1233456456456, adasdasdassd, 2014-11-06 14:57:13, 2014-11-06 14:57:13)
+Nov 06 14:58:45 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:58:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:58:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:58:45 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:58:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:58:45 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:58:45 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:58:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:58:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:58:45 symfony [info] {sfWebDebugLogger} Configuration 0.97 ms (9)
+Nov 06 14:58:45 symfony [info] {sfWebDebugLogger} Factories 4.25 ms (1)
+Nov 06 14:58:45 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:58:45 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.25 ms (1)
+Nov 06 14:58:45 symfony [info] {sfWebResponse} Send content (35713 o)
+Nov 06 14:59:14 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:59:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:59:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:59:14 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:59:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:59:14 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:59:14 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:59:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:59:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:59:14 symfony [info] {sfWebDebugLogger} Configuration 0.87 ms (9)
+Nov 06 14:59:14 symfony [info] {sfWebDebugLogger} Factories 3.47 ms (1)
+Nov 06 14:59:14 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:59:14 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 1.94 ms (1)
+Nov 06 14:59:14 symfony [info] {sfWebResponse} Send content (35712 o)
+Nov 06 14:59:24 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 14:59:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:59:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:59:24 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 14:59:24 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 14:59:24 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (Name, pushparaj.g.89@gmail.com, 1234567890, dasdas, 2014-11-06 14:59:24, 2014-11-06 14:59:24)
+Nov 06 14:59:37 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 14:59:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 14:59:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 14:59:37 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 14:59:37 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 14:59:37 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:59:37 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 14:59:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 14:59:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 14:59:37 symfony [info] {sfWebDebugLogger} Configuration 1.05 ms (9)
+Nov 06 14:59:37 symfony [info] {sfWebDebugLogger} Factories 4.24 ms (1)
+Nov 06 14:59:37 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.07 ms (1)
+Nov 06 14:59:37 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.41 ms (1)
+Nov 06 14:59:37 symfony [info] {sfWebResponse} Send content (35713 o)
+Nov 06 15:01:16 symfony [info] {sfPatternRouting} Match route "contact" (/countact-us) for /countact-us with parameters array (  'module' => 'user',  'action' => 'contact',)
+Nov 06 15:01:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 15:01:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 15:01:16 symfony [info] {userActions} Call "userActions->executeContact()"
+Nov 06 15:01:16 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/contactSuccess.php"
+Nov 06 15:01:16 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 15:01:16 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 15:01:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 15:01:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 15:01:16 symfony [info] {sfWebDebugLogger} Configuration 0.86 ms (9)
+Nov 06 15:01:16 symfony [info] {sfWebDebugLogger} Factories 4.29 ms (1)
+Nov 06 15:01:16 symfony [info] {sfWebDebugLogger} Action "user/contact" 0.08 ms (1)
+Nov 06 15:01:16 symfony [info] {sfWebDebugLogger} View "Success" for "user/contact" 2.47 ms (1)
+Nov 06 15:01:16 symfony [info] {sfWebResponse} Send content (35789 o)
+Nov 06 15:01:39 symfony [info] {sfPatternRouting} Match route "contact-save-url" (/contact-save-url) for /contact-save-url with parameters array (  'module' => 'user',  'action' => 'contactSave',)
+Nov 06 15:01:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 15:01:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 15:01:39 symfony [info] {userActions} Call "userActions->executeContactSave()"
+Nov 06 15:01:39 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 15:01:39 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user_details (name, email_address, phone_number, comments, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?) - (sss, pushparaj.g.89@gmail.com, 1234567890, dsadasdasd, 2014-11-06 15:01:39, 2014-11-06 15:01:39)
+Nov 06 15:03:19 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'user',  'action' => 'new',)
+Nov 06 15:03:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 15:03:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 15:03:19 symfony [info] {userActions} Call "userActions->executeNew()"
+Nov 06 15:03:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/newSuccess.php"
+Nov 06 15:03:19 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/modules/user/templates/_form.php"
+Nov 06 15:03:19 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 15:03:19 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/frontend/templates/layout.php"
+Nov 06 15:03:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 15:03:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 15:03:19 symfony [info] {sfWebDebugLogger} Configuration 1.27 ms (9)
+Nov 06 15:03:19 symfony [info] {sfWebDebugLogger} Factories 4.83 ms (1)
+Nov 06 15:03:19 symfony [info] {sfWebDebugLogger} Action "user/new" 4.01 ms (1)
+Nov 06 15:03:19 symfony [info] {sfWebDebugLogger} View "Success" for "user/new" 2.80 ms (1)
+Nov 06 15:03:19 symfony [info] {sfWebDebugLogger} Partial "user/_form" 0.32 ms (1)
+Nov 06 15:03:19 symfony [info] {sfWebResponse} Send content (38203 o)

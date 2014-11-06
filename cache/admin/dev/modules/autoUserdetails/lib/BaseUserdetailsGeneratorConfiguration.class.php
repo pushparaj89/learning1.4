@@ -58,7 +58,7 @@ class BaseUserdetailsGeneratorConfiguration extends sfModelGeneratorConfiguratio
 
   public function getListBatchActions()
   {
-    return array();
+    return array(  '_delete' => NULL,);
   }
 
   public function getListParams()

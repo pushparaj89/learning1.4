@@ -80,4 +80,24 @@ class userActions extends sfActions
   {
 
   }
+  public function executeContactSave(sfWebRequest $request){
+        if($request->isXmlHttpRequest()){
+            $name = $request->getParameter('name');
+            $email = $request->getParameter('email');
+            $phoneNumber = $request->getParameter('phone');
+            $message = $request->getParameter('message');
+
+            $obj = new UserDetails();
+            $obj->setName($name);
+            $obj->setEmailAddress($email);
+            $obj->setPhoneNumber($phoneNumber);
+            $obj->setComments($message);
+            $obj->save();
+            echo "Done";
+//            echo $this->sendEmailAdmin($obj);
+        }else{
+            echo 'access restricted';
+        }
+        exit;
+  }
 }

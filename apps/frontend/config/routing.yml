@@ -17,6 +17,10 @@ contact:
 gallery:
   url: /gallery
   param: { module: user, action: gallery }
+
+contact-save-url:
+  url: /contact-save-url
+  param: { module: user, action: contactSave }
 # generic rules
 # please, remove them by adding more specific rules
 default_index:

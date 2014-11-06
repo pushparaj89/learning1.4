@@ -12,5 +12,8 @@ class UserDetailsForm extends BaseUserDetailsForm
 {
   public function configure()
   {
+      unset($this['created_at'],$this['updated_at'],$this['best_contact']);
+      $this->disableCSRFProtection();
+
   }
 }

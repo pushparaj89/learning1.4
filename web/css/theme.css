@@ -83,3 +83,23 @@ body{
 .footer a{
 	color: #222;
 }
+
+.form-group.field-success input
+{
+    background:url(/images/alert-success.png) no-repeat right  center;
+    border:0;
+}
+
+
+.form-group.field-error input
+{
+    border:0;
+    background:url(/images/alert-error.png) no-repeat right center;
+}
+.form-group label.error{ background: #f2dede !important; color: #740707 !important; display: block; padding: 6px;}
+
+.thankyou {
+   line-height: 36px;
+    background-color: #dff0d8;
+    padding-left: 6px;
+}

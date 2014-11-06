@@ -11,6 +11,7 @@
     <?php include_javascripts() ?>
       <script src="/bower_components/jquery/dist/jquery.js"></script>
       <script src="/bower_components/flexslider/jquery.flexslider.js"></script>
+      <script src="/bower_components/jquery/dist/jquery.validate.js"></script>
       <script>
           $(document).ready(function(){
 

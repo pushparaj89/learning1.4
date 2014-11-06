@@ -16,6 +16,7 @@
     </div>
   
   <div id="sf_admin_content">
+          <form action="<?php echo url_for('user_details_collection', array('action' => 'batch')) ?>" method="post" id="sf_admin_content_form">
     
       <div class="sf_admin_actions_block floatleft">
       	<a tabindex="0" href="#sf_admin_actions_menu" class="fg-button fg-button-icon-right ui-widget ui-state-default ui-corner-all" id="sf_admin_actions_button">
@@ -35,6 +36,7 @@
         <?php include_partial('userdetails/list_batch_actions', array('helper' => $helper)) ?>
       </ul>
 
+          </form>
       </div>
 
   <div id="sf_admin_footer">

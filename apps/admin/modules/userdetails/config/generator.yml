@@ -17,7 +17,6 @@ generator:
       list:
         display: [name, email_address, phone_number, comments, created_at]
         max_per_page:   10
-        batch_actions: {}
         object_actions:
           _edit:      ~
           _delete:    ~

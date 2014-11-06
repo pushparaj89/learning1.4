@@ -32,6 +32,7 @@
 
     <thead class="ui-widget-header">
       <tr>
+                  <th id="sf_admin_list_batch_actions"  class="ui-state-default ui-th-column"><input id="sf_admin_list_batch_checkbox" type="checkbox" onclick="checkAll();" /></th>
         
         <?php include_partial('userdetails/list_th_tabular', array('sort' => $sort)) ?>
 
@@ -41,7 +42,7 @@
 
     <tfoot>
       <tr>
-        <th colspan="6">
+        <th colspan="7">
           <div class="ui-state-default ui-th-column ui-corner-bottom">
             <?php include_partial('userdetails/pagination', array('pager' => $pager)) ?>
           </div>
@@ -52,6 +53,7 @@
     <tbody>
       <?php foreach ($pager->getResults() as $i => $user_details): $odd = fmod(++$i, 2) ? ' odd' : '' ?>
         <tr class="sf_admin_row ui-widget-content <?php echo $odd ?>">
+                      <?php include_partial('userdetails/list_td_batch_actions', array('user_details' => $user_details, 'helper' => $helper)) ?>
           
           <?php include_partial('userdetails/list_td_tabular', array('user_details' => $user_details)) ?>
 
