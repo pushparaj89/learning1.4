@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85ebdf40-4fbd-4bad-becf-ee197da17b20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/alert-error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/alert-success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bower_components/jquery/dist/jquery.validate.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_sfGuardAuth_config_filters.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_sfGuardAuth_config_module.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_sfGuardAuth_config_security.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_sfGuardAuth_config_view.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/modules_default_config_filters.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/modules_default_config_module.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/modules_default_config_security.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/modules_default_config_view.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/project_autoload.cache" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/form/doctrine/UserDetailsForm.class.php" afterPath="$PROJECT_DIR$/lib/form/doctrine/UserDetailsForm.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/modules/user/actions/actions.class.php" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/actions/actions.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/admin_dev.log" afterPath="$PROJECT_DIR$/log/admin_dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_app.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_app.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_app.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_app.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_autoload.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_autoload.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_autoload.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_autoload.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_config_handlers.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_config_handlers.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_config_handlers.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_config_handlers.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_core_compile.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_core_compile.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_databases.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_databases.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_databases.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_databases.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_factories.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_factories.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_factories.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_factories.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_routing.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_routing.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_routing.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_routing.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/config_settings.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/config_settings.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/frontend/prod/config/config_settings.yml.php" afterPath="$PROJECT_DIR$/cache/frontend/prod/config/config_settings.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/frontend_dev.log" afterPath="$PROJECT_DIR$/log/frontend_dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml" afterPath="$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/templates/layout.php" afterPath="$PROJECT_DIR$/apps/frontend/templates/layout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/main.css" afterPath="$PROJECT_DIR$/web/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_filters.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_filters.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_generator.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_generator.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_module.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_module.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_security.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_security.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_view.yml.php" afterPath="$PROJECT_DIR$/cache/admin/dev/config/modules_userdetails_config_view.yml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/config/routing.yml" afterPath="$PROJECT_DIR$/apps/frontend/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/theme.css" afterPath="$PROJECT_DIR$/web/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="85ebdf40-4fbd-4bad-becf-ee197da17b20" name="Default" comment="" />
     <ignored path="learning1.4.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -126,8 +82,10 @@
       <file leaf-file-name="generator.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="524" selection-end="524" vertical-scroll-proportion="0.42347696" vertical-offset="0" max-vertical-offset="673">
-              <folding />
+            <state line="28" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.6240713" vertical-offset="0" max-vertical-offset="673">
+              <folding>
+                <marker date="1415266384286" expanded="true" signature="408:625" placeholder="list:" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1080,8 +1038,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/admin/modules/userdetails/config/generator.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="524" selection-end="524" vertical-scroll-proportion="0.42347696" vertical-offset="0" max-vertical-offset="673">
-          <folding />
+        <state line="28" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.6240713" vertical-offset="0" max-vertical-offset="673">
+          <folding>
+            <marker date="1415266384286" expanded="true" signature="408:625" placeholder="list:" />
+          </folding>
         </state>
       </provider>
     </entry>
