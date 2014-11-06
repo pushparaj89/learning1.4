@@ -17,7 +17,9 @@
         	<div class="row">
         		<div class="span3 work-widget text-center">
         			<h3>Work Title</h3>
-        			<img src="/images/work-1.jpg" alt="">
+                    <a href="/images/work-1.jpg" data-lightbox="image-1" data-title="My caption">
+        			    <img data-title="Work Img" src="/images/work-1.jpg" alt="">
+                    </a>
         			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur corporis ut repellat porro libero voluptatem error explicabo deleniti perspiciatis illo!</p>
         			<a href="#" class="btn btn-success">Read More</a>
         		</div>
