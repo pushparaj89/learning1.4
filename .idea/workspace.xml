@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ebdf40-4fbd-4bad-becf-ee197da17b20" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php" afterPath="$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/lightbox.css" afterPath="$PROJECT_DIR$/web/css/lightbox.css" />
     </list>
     <ignored path="learning1.4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,15 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="actions.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/actions/actions.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="24" selection-start="2997" selection-end="2997" vertical-scroll-proportion="0.0" vertical-offset="984" max-vertical-offset="1635">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="layout.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,10 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallerySuccess.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gallerySuccess.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="24" selection-start="7025" selection-end="7025" vertical-scroll-proportion="0.7783019" vertical-offset="1290" max-vertical-offset="2250">
+            <state line="119" column="24" selection-start="7025" selection-end="7025" vertical-scroll-proportion="-20.625" vertical-offset="1290" max-vertical-offset="2250">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightbox.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/css/lightbox.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="201" column="23" selection-start="3717" selection-end="3717" vertical-scroll-proportion="0.66567606" vertical-offset="2567" max-vertical-offset="3240">
               <folding />
             </state>
           </provider>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/aboutSuccess.php" />
         <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/contactSuccess.php" />
         <option value="$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php" />
+        <option value="$PROJECT_DIR$/web/css/lightbox.css" />
       </list>
     </option>
   </component>
@@ -1061,11 +1062,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/lightbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3240" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/templates/layout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="0" selection-start="2550" selection-end="2550" vertical-scroll-proportion="-21.5" vertical-offset="369" max-vertical-offset="1005">
@@ -1098,7 +1094,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/frontend/modules/user/templates/gallerySuccess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="24" selection-start="7025" selection-end="7025" vertical-scroll-proportion="0.7783019" vertical-offset="1290" max-vertical-offset="2250">
+        <state line="119" column="24" selection-start="7025" selection-end="7025" vertical-scroll-proportion="-20.625" vertical-offset="1290" max-vertical-offset="2250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/lightbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="201" column="23" selection-start="3717" selection-end="3717" vertical-scroll-proportion="0.66567606" vertical-offset="2567" max-vertical-offset="3240">
           <folding />
         </state>
       </provider>
