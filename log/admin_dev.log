@@ -1985,3 +1985,81 @@ Nov 06 15:03:15 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list_foo
 Nov 06 15:03:15 symfony [info] {sfWebDebugLogger} Partial "userdetails/_themeswitcher" 0.29 ms (1)
 Nov 06 15:03:15 symfony [info] {sfWebResponse} Send content (103357 o)
 Nov 06 15:03:15 symfony [info] {myUser} Remove old flash messages ("notice")
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_filter" (/guard/users/filter.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_batch" (/guard/users/batch.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user" (/guard/users.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_new" (/guard/users/new.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_create" (/guard/users.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_edit" (/guard/users/:id/edit.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_update" (/guard/users/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_delete" (/guard/users/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_show" (/guard/users/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_object" (/guard/users/:id/:action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_user_collection" (/guard/users/:action/action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_filter" (/guard/groups/filter.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_batch" (/guard/groups/batch.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group" (/guard/groups.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_new" (/guard/groups/new.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_create" (/guard/groups.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_edit" (/guard/groups/:id/edit.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_update" (/guard/groups/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_delete" (/guard/groups/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_show" (/guard/groups/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_object" (/guard/groups/:id/:action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_group_collection" (/guard/groups/:action/action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_filter" (/guard/permissions/filter.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_batch" (/guard/permissions/batch.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission" (/guard/permissions.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_new" (/guard/permissions/new.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_create" (/guard/permissions.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_edit" (/guard/permissions/:id/edit.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_update" (/guard/permissions/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_delete" (/guard/permissions/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_show" (/guard/permissions/:id.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_object" (/guard/permissions/:id/:action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Connect sfDoctrineRoute "sf_guard_permission_collection" (/guard/permissions/:action/action.:sf_format)
+Nov 06 15:37:53 symfony [info] {sfPatternRouting} Match route "user_details" (/userdetails.:sf_format) for /userdetails with parameters array (  'module' => 'userdetails',  'action' => 'index',  'sf_format' => 'html',)
+Nov 06 15:37:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Nov 06 15:37:53 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Nov 06 15:37:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Nov 06 15:37:53 symfony [info] {userdetailsActions} Call "userdetailsActions->executeIndex()"
+Nov 06 15:37:53 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Nov 06 15:37:53 symfony [info] {Doctrine_Connection_Mysql} query : SELECT COUNT(*) AS num_results FROM user_details u - ()
+Nov 06 15:37:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/indexSuccess.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_assets.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_flashes.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_list_header.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_filters_field.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_list_actions.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_list.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_list_batch_actions.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_list_footer.php"
+Nov 06 15:37:53 symfony [info] {sfPartialView} Render "/home/pushparaj/projects/learning1.4/cache/admin/dev/modules/autoUserdetails/templates/_themeswitcher.php"
+Nov 06 15:37:53 symfony [info] {sfPHPView} Decorate content with "/home/pushparaj/projects/learning1.4/apps/admin/templates/layout.php"
+Nov 06 15:37:53 symfony [info] {sfPHPView} Render "/home/pushparaj/projects/learning1.4/apps/admin/templates/layout.php"
+Nov 06 15:37:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Nov 06 15:37:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Configuration 19.61 ms (11)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Factories 103.68 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Action "userdetails/index" 529.31 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Database (Doctrine) 140.69 ms (2)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} View "Success" for "userdetails/index" 51.19 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_assets" 0.56 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_flashes" 0.47 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list_header" 0.44 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_filters" 20.74 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_filters_field" 15.63 ms (6)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list_actions" 1.14 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list" 0.79 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list_batch_actions" 0.49 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_list_footer" 0.24 ms (1)
+Nov 06 15:37:53 symfony [info] {sfWebDebugLogger} Partial "userdetails/_themeswitcher" 0.22 ms (1)
+Nov 06 15:37:54 symfony [info] {sfWebResponse} Send content (102627 o)

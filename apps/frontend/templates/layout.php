@@ -57,18 +57,5 @@
     <?php echo $sf_content ?>
 
   </body>
-  <div class="container footer">
-      <div class="row">
-          <div class="span12 text-center">
-              <hr>
-              <ul class="inline">
-                  <li><a href="<?php echo url_for('homepage') ?>">Home</a></li>
-                  <li><a href="<?php echo url_for('gallery') ?>">Gallery</a></li>
-                  <li><a href="<?php echo url_for('about') ?>">About Us</a></li>
-                  <li><a href="<?php echo url_for('contact') ?>">Contact</a></li>
-              </ul>
-          </div>
-      </div>
-  </div>
 
 </html>
